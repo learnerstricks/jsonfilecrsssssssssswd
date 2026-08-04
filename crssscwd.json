@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Example Name",
+  "puzzles": {
+    "1": "SecretCodeA",
+    "2": "SecretCodeB"
+  }
+}
