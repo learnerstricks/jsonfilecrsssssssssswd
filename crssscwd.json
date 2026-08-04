@@ -1,8 +1,19 @@
-{
-  "id": 1,
-  "name": "Example Name",
-  "puzzles": {
-    "1": "SecretCodeA",
-    "2": "SecretCodeB"
+[
+  {
+    "id": 1,
+    "name": "Example Name",
+    "puzzles": {
+      "1": "SecretCodeA",
+      "2": "SecretCodeB"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Second Example",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
   }
-}
+]
+
