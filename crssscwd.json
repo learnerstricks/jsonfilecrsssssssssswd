@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "rrrExample Name tttt",
+    "name": "physics",
     "puzzles": {
       "1": "SecretCodeA",
       "2": "SecretCodeB"
@@ -9,11 +9,75 @@
   },
   {
     "id": 2,
-    "name": "Second Example",
+    "name": "politics",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
-  }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "politics",
+    "puzzles": {
+      "1": "SecretCodeC",
+      "2": "SecretCodeD"
+    }
+  },
 ]
 
