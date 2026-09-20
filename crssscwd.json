@@ -11,72 +11,112 @@
     "id": 2,
     "name": "politics",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+      
     }
   },
   {
     "id": 3,
     "name": "tailoring",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+      
     }
   },
   {
     "id": 4,
     "name": "music",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+
     }
   },
   {
     "id": 5,
     "name": "movies",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+     
     }
   },
   {
     "id": 6,
     "name": "psychology",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+      
     }
   },
   {
     "id": 7,
     "name": "geography",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+      
     }
   },
   {
     "id": 8,
     "name": "mystery",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+     
     }
   },
   {
     "id": 9,
     "name": "history",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+      
     }
   },
   {
     "id": 10,
     "name": "sea life",
     "puzzles": {
-      "1": "SecretCodeC",
-      "2": "SecretCodeD"
+     
+    }
+  },
+  {
+    "id": 11,
+    "name": "space",
+    "puzzles": {
+      
+    }
+  },
+  {
+    "id": 12,
+    "name": "football",
+    "puzzles": {
+      
+    }
+  },
+  {
+    "id": 13,
+    "name": "rugby",
+    "puzzles": {
+      
+    }
+  },
+  {
+    "id": 14,
+    "name": "food",
+    "puzzles": {
+      
+    }
+  },
+  {
+    "id": 15,
+    "name": "shakespear",
+    "puzzles": {
+      
+    }
+  },
+  {
+    "id": 16,
+    "name": "medieval",
+    "puzzles": {
+     
+    }
+  },
+  {
+    "id": 17,
+    "name": "china",
+    "puzzles": {
+     
     }
   },
 ]
