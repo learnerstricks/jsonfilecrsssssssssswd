@@ -16,40 +16,40 @@
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 3,
+    "name": "tailoring",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 4,
+    "name": "music",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 5,
+    "name": "movies",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 6,
+    "name": "psychology",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 7,
+    "name": "geogaphy",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
