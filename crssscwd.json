@@ -49,31 +49,31 @@
   },
   {
     "id": 7,
-    "name": "geogaphy",
+    "name": "geography",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 8,
+    "name": "mystery",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 9,
+    "name": "history",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
     }
   },
   {
-    "id": 2,
-    "name": "politics",
+    "id": 10,
+    "name": "sea life",
     "puzzles": {
       "1": "SecretCodeC",
       "2": "SecretCodeD"
