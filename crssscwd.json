@@ -41,17 +41,19 @@
     "id": 3,
     "name": "tailoring",
     "puzzles": {
-"1":"d-1-material for making clothes, covering furniture, etc-fabric",
+"1":"d-1-material for making clothes or covering furniture and so on-fabric",
 "2":"ad-3-they allow flat fabric to take on a shape that will fit the body contour|refers to the way the fabric hangs-dart|drape",
-"3":"a-7- professional who makes, alters, repairs clothes-tailor",
+"3":"a-7-professional who makes or alters or repairs clothes-tailor",
 "4":"d-12-a sewing technique that gathers or pleats fabric into soft ripples to add shape and texture to garments-ruching",
-"5":"a-25- cutting fabric at a 45-degree angle to its lengthwise and crosswise threads-bias",
-"6":"a-28-a single loop, turn, or complete pass of thread through fabric used to join pieces together, mend tears, or add decoration-stitch",
-"7":"a-65-lightweight, breathable cotton fabric made with a plain weave-muslin",
-"8":"d-68-an inner layer of fabric used in jackets, coats, skirts-lining",
-"9":"d-70-Small objects used in sewing, such as buttons, thread, ribbons, and pins-notions",
-  "10":"ad-73-Small objects used in sewing, such as buttons, thread, ribbons, and pins|A small steel tool with an eye or hole at one end for holding thread, used in hand sewing-notions|needle",
-"11":"a-132-a property of rubber bands-elastic"
+"5":"a-25-cutting fabric at a 45-degree angle to its lengthwise and crosswise threads-bias",
+"6":"a-28-a single loop or turn or complete pass of thread through fabric used to join pieces together or mend tears or add decoration-stitch",
+"7":"d-29-to cut small parts off clothes to make them neat-trim",
+"8":"d-33-the edge of a piece of cloth or clothing folded back and sewn down to stop threads from fraying-hem",
+"9":"a-65-lightweight and breathable cotton fabric made with a plain weave-muslin",
+"10":"d-68-an inner layer of fabric used in jackets and coats and skirts-lining",
+"11":"d-70-Small objects used in sewing, such as buttons or thread or ribbons or pins-notions",
+  "12":"ad-73-Small objects used in sewing such as buttons or thread or ribbons or pins|a small steel tool with an eye or hole at one end for holding thread and is used in hand sewing-notions|needle",
+"13":"a-132-a property of rubber bands-elastic"
     }
   },
   {
